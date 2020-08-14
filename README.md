@@ -1,4 +1,5 @@
 # Intro to React Sprint Challenge
+William Herman
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -30,11 +31,19 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React JS is a library for JS that allows easily development of interactive web applications. Using React, developers can build applications through components that are easily updated through state hooks. This means the web-page does not rely on static html and css. The whole we page is rendered through the DOM.
+
 1. Describe component state.
+
+Component state is used to update and change a value.
 
 1. Describe props.
 
+Props are objects passed from parent components to child components.
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+Side effects are code that only render when other code has changed.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 

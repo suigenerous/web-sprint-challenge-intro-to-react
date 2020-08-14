@@ -1,4 +1,5 @@
 # Intro to React Sprint Challenge
+William Herman
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
